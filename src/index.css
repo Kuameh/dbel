@@ -140,3 +140,11 @@ textarea:not([rows]) {
     scroll-behavior: auto !important;
   }
 }
+
+/* ======================== */
+/* ====== Custom CSS ====== */
+/* ======================== */
+
+#root {
+  @apply w-full lg:w-3/4 xl:w-2/3 mx-auto;
+}
