@@ -1,6 +1,6 @@
 const Program = () => {
   return (
-    <main className="flex">
+    <main>
       <section id="program-outline" className="w-full">
         <div className="flex w-full flex-col items-center justify-start px-4 py-12 sm:px-24 md:px-12 lg:px-24">
           <h1 className="mb-8 w-full border-y-[.5px] border-gray-300 py-3 text-center align-middle text-3xl font-normal italic">
