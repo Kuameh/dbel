@@ -9,6 +9,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Program />} />
+          <Route path="/dbel/" element={<Program />} />
           <Route path="*" element={<NotFound />} />
         </Route>
       </Routes>
