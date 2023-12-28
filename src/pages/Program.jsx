@@ -146,12 +146,6 @@ const Program = () => {
               </ul>
             </div>
             <div className="grid items-start justify-start md:grid-cols-2">
-              <h2 className="mb-2 text-2xl font-normal italic">Hymns</h2>
-              <ul className="text-xl font-light normal-case italic">
-                <li>Gideon Inc</li>
-              </ul>
-            </div>
-            <div className="grid items-start justify-start md:grid-cols-2">
               <h2 className="mb-2 text-2xl font-normal italic">
                 Bridal Procession
               </h2>
