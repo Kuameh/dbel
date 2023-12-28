@@ -141,10 +141,10 @@ const Program = () => {
             </div>
             <div className="grid items-start justify-start md:grid-cols-2">
               <h2 className="mb-2 text-2xl font-normal italic">
-                Exchange of Vows
+                Exchange of Vows &amp; Sermon
               </h2>
               <ul className="text-xl font-light normal-case italic">
-                <li>N/A.</li>
+                <li>Rev. Jerry Hanson Nortey</li>
               </ul>
             </div>
             <div className="grid items-start justify-start md:grid-cols-2">
