@@ -97,13 +97,13 @@ const Program = () => {
                 Bridal Possession
               </h2>
               <ul className="text-xl font-light normal-case italic">
-                <li>Asafo Yehowa by Mr. Alfred Amissah and Gideon’s Inc.</li>
+                <li>Asafo Yehowa by Mr. Alfred Amissah and RAC Crew.</li>
               </ul>
             </div>
             <div className="grid items-start justify-start md:grid-cols-2">
               <h2 className="mb-2 text-2xl font-normal italic">Praises</h2>
               <ul className="text-xl font-light normal-case italic">
-                <li>Mr. Alfred Amissah and Gideon’s Inc.</li>
+                <li>Mr. Alfred Amissah and RAC Crew.</li>
               </ul>
             </div>
             <div className="grid items-start justify-start md:grid-cols-2">
