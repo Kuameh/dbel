@@ -153,7 +153,7 @@ const Program = () => {
             </div>
             <div className="grid items-start justify-start md:grid-cols-2">
               <h2 className="mb-2 text-2xl font-normal italic">
-                Bridal Possession
+                Bridal Procession
               </h2>
               <ul className="text-xl font-light normal-case italic">
                 <li>Asafo Yehowa by Mr. Alfred Amissah and RAC Crew.</li>
