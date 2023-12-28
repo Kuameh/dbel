@@ -12,14 +12,39 @@ const Program = () => {
               <h2 className="mb-2 text-2xl font-normal italic">
                 Officiating Ministers
               </h2>
-              <ul className="text-xl font-light normal-case italic">
-                <li>Rev. Jerry Hanson Nortey</li>
-                <li>Rev. Isaac Kwakye Anokye-Manuh</li>
-                <li>Rev. Boadi Manu</li>
-                <li>Rev. Bright Owiredu</li>
-                <li>Rev. Asare</li>
-                <li>Rev. Essoun</li>
-                <li>Rev David Torto</li>
+              <ul className="text-xl font-light italic">
+                <li className="mb-2">
+                  Rev. Jerry Hanson Nortey &mdash;{" "}
+                  <span className="text-base">National Superintendent</span>
+                </li>
+                <li className="mb-2">
+                  Rev. Isaac Kwakye Anokye-Manu &mdash;{" "}
+                  <span className="text-base">Assistant Superintendent</span>
+                </li>
+                <li className="mb-2">
+                  Rev. Boadi Manu &mdash;{" "}
+                  <span className="text-base">National Secretary</span>
+                </li>
+                <li className="mb-2">
+                  Rev. Bright Owiredu &mdash;{" "}
+                  <span className="text-base">
+                    National Director Of Evangelism
+                  </span>
+                </li>
+                <li className="mb-2">
+                  Rev Joseph Asare &mdash;{" "}
+                  <span className="text-base">National Treasurer</span>
+                </li>
+                <li className="mb-2">
+                  Rev David Torto &mdash;{" "}
+                  <span className="text-base">
+                    Greater Accra Regional Presbyter
+                  </span>
+                </li>
+                <li className="mb-2">
+                  Rev. Emmanuel Essoun &mdash;{" "}
+                  <span className="text-base">Bethel Assist Pastor</span>
+                </li>
               </ul>
             </div>
             {/* Bride’s Maids */}
