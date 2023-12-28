@@ -184,7 +184,7 @@ const Program = () => {
             </div>
             <div className="grid items-start justify-start md:grid-cols-2">
               <h2 className="mb-2 text-2xl font-normal italic">
-                Introduction of Ministers and Dignitaries
+                Introduction of Ministers, Ministers’ Wives and Dignitaries
               </h2>
               <ul className="text-xl font-light normal-case italic">
                 <li>N/A.</li>
