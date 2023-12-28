@@ -32,17 +32,16 @@ const Program = () => {
                 <li>Pearl Dzifa Agbeyon</li>
                 <li>Grace Ladonu</li>
                 <li>Abigail Abordor</li>
-                <li>Stephanie Apemah Baah</li>
               </ul>
             </div>
             {/* Groomsmen */}
             <div className="flex flex-col items-start justify-start">
               <h2 className="mb-2 text-2xl font-normal italic">Groomsmen</h2>
-              <ul className="text-xl font-light italic">
-                <li>George Owusu</li>
+              <ul className="flex flex-col gap-y-2 text-xl font-light italic">
+                <li>George Owusu-Fordwouh</li>
+                <li>Samuel Nana Oppong Brenya</li>
                 <li>Edmond Nyarko</li>
-                <li>Samuel</li>
-                <li>George Opoku</li>
+                <li>Kwaku Fosuhene</li>
               </ul>
             </div>
             {/* Decorations */}
