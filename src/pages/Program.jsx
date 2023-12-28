@@ -8,7 +8,7 @@ const Program = () => {
           </h1>
           <div className="grid w-full gap-x-4 gap-y-8 md:grid-cols-2 lg:gap-x-8">
             {/* Officiating Ministers */}
-            <div className="flex flex-col items-start justify-start">
+            <div className="col-span-full flex flex-col items-start justify-start">
               <h2 className="mb-2 text-2xl font-normal italic">
                 Officiating Ministers
               </h2>
