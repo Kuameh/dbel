@@ -1,6 +1,41 @@
+import { useState } from "react";
+
+function classNames(...classes) {
+  return classes.filter(Boolean).join(" ");
+}
+
 const Program = () => {
+  const [ping, setPing] = useState(true);
+  setInterval(() => {
+    setPing(!ping);
+  }, 10000);
+
   return (
     <main>
+      <a
+        download="dbel23-program-outline"
+        href="/dbel/assets/d'bel-program-outline.pdf"
+        className={classNames(
+          "fixed bottom-4 right-4 flex items-center justify-center rounded-full bg-[#6dcef8] p-4 text-white shadow-md before:absolute before:inset-0 before:z-[-1] before:rounded-full before:bg-[#6dcef8] before:opacity-75",
+          ping ? "before:animate-ping" : "",
+        )}
+      >
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          fill="none"
+          viewBox="0 0 24 24"
+          strokeWidth="1.5"
+          stroke="currentColor"
+          className="h-6 w-6"
+        >
+          <path
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            d="M3 16.5v2.25A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75V16.5M16.5 12 12 16.5m0 0L7.5 12m4.5 4.5V3"
+          />
+        </svg>
+      </a>
+
       <section id="program-outline" className="w-full">
         <div className="flex w-full flex-col items-center justify-start px-4 py-12 sm:px-24 md:px-12 lg:px-24">
           <h1 className="mb-8 w-full border-y-[.5px] border-gray-300 py-3 text-center align-middle text-3xl font-normal italic">
