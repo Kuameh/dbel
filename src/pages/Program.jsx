@@ -27,7 +27,7 @@ const Program = () => {
               <h2 className="mb-2 text-2xl font-normal italic">
                 Bride’s Maids
               </h2>
-              <ul className="text-xl font-light italic">
+              <ul className="flex flex-col gap-y-2 text-xl font-light italic">
                 <li>Stella Apemah Baah</li>
                 <li>Pearl Dzifa Agbeyon</li>
                 <li>Grace Ladonu</li>
