@@ -71,7 +71,7 @@ const Program = () => {
                   <span className="text-base">National Treasurer</span>
                 </li>
                 <li className="mb-2">
-                  Rev David Torto &mdash;{" "}
+                  Rev David Tortoe &mdash;{" "}
                   <span className="text-base">
                     Greater Accra Regional Presbyter
                   </span>
