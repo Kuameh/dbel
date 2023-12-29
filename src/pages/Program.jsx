@@ -39,7 +39,7 @@ const Program = () => {
       <section id="program-outline" className="w-full">
         <div className="flex w-full flex-col items-center justify-start px-4 py-12 sm:px-24 md:px-12 lg:px-24">
           <h1 className="mb-8 w-full border-y-[.5px] border-gray-300 py-3 text-center align-middle text-3xl font-normal italic">
-            Program Outline
+            Programme Outline
           </h1>
           <div className="grid w-full gap-x-4 gap-y-8 md:grid-cols-2 lg:gap-x-8">
             {/* Officiating Ministers */}
