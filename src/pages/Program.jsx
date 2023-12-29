@@ -89,7 +89,7 @@ const Program = () => {
               </h2>
               <ul className="flex flex-col gap-y-2 text-xl font-light italic">
                 <li>Stella Apemah Baah</li>
-                <li>Pearl Dzifa Agbeyon</li>
+                <li>Pearl Dzifa Agbenyo Dawfor</li>
                 <li>Grace Ladonu</li>
                 <li>Abigail Abordor</li>
               </ul>
@@ -267,9 +267,9 @@ const Program = () => {
           <div className="w-full">
             <ul className="grid grid-flow-row gap-y-8 text-xl font-light normal-case italic">
               <li>Couple</li>
-              <li>Ministers and ministers’ wife and couple</li>
+              <li>Ministers and Ministers’ Wives</li>
               <li>Groom’s parents and couple</li>
-              <li>Bride’s parent and couple</li>
+              <li>Bride’s parents and couple</li>
               <li>Both parents and couple</li>
               <li>Groom’s family</li>
               <li>Bride’s family</li>
